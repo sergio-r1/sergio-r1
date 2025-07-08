@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou o Sergio 👋
 
-<!--
-**sergio-r1/sergio-r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Python com foco em backend para sistemas web e bancos de dados PostgreSQL. Vivo para resolver problemas usando tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+### Técnologias que uso diariamente
+- Python e Django
+- PostgreSQL
+- Git, Docker, Kubernetes
+- Metodologia ágil Scrum
+
+### Técnologias que tenho conhecimento
+
+- Javascript e Typescript
+- C/C++
+- Java
+
+---
+
+## Projetos em Destaque
+
+ - Estou consolidando e documentando meus projetos antes de publicá-los. Novidades serão adicionadas em breve
+
+---
+
+## Contato
+[LinkedIn](www.linkedin.com/in/sergio-rohling) | sergio-r1@outlook.com | sergiorohling@hotmail.com
