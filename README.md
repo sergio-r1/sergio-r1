@@ -27,4 +27,4 @@ Sou desenvolvedor Python com foco em backend para sistemas web e bancos de dados
 ---
 
 ## Contato
-[LinkedIn](www.linkedin.com/in/sergio-rohling) | sergio-r1@outlook.com | sergiorohling@hotmail.com
+[LinkedIn](www.linkedin.com/in/sergio-rohling) | [Email principal](sergio-r1@outlook.com) | [Email secudário]sergiorohling@hotmail.com
