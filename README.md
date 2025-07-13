@@ -1,4 +1,4 @@
-# Olá! Eu sou o Sergio 👋
+# Olá! Eu sou o Sérgio 👋
 
 Sou desenvolvedor Python com foco em backend para sistemas web e bancos de dados PostgreSQL. Vivo para resolver problemas usando tecnologia.
 
