@@ -12,7 +12,7 @@ Sou desenvolvedor Python com foco em backend para sistemas web e bancos de dados
 - Git, Docker, Kubernetes
 - Metodologia ágil Scrum
 
-### Técnologias que tenho conhecimento
+### Linguagens que uso ou já utilizei
 
 - Javascript e Typescript
 - C/C++
