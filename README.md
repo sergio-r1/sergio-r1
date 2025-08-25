@@ -24,5 +24,3 @@ I am a backend developer with experience in building APIs and scalable systems. 
 
 ## Contact
 [LinkedIn](www.linkedin.com/in/sergio-rohling) | [Primary email](sergio-r1@outlook.com) | [Secondary email](sergiorohling@hotmail.com)
-
-Translated with DeepL.com (free version)
