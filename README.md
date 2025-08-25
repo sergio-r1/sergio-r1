@@ -1,30 +1,28 @@
-# Olá! Eu sou o Sérgio 
+# Hello! I'm Sérgio. 
 
-Sou desenvolvedor Python com foco em backend para sistemas web e bancos de dados PostgreSQL. Vivo para resolver problemas usando tecnologia.
+I am a backend developer with experience in building APIs and scalable systems. I am currently studying blockchain and Web3, learning about smart contracts (solidity), where my goal is to combine my backend foundation with web3 to create innovative and secure solutions.
 
 ---
 
-## Habilidades
+## Skills
 
-### Técnologias que uso diariamente
-- Python e Django
+### Technologies I use daily
+- Python and Django
 - PostgreSQL
-- Git, Docker, Kubernetes
-- Metodologia ágil Scrum
+- Git
+- Docker
+- Kubernetes
+- Agile Scrum methodology
 
-### Linguagens que uso ou já utilizei
-
-- Javascript e Typescript
+### Languages I use or have used
+- Javascript
+- Typescript
 - C/C++
 - Java
 
 ---
 
-## Projetos em Destaque
+## Contact
+[LinkedIn](www.linkedin.com/in/sergio-rohling) | [Primary email](sergio-r1@outlook.com) | [Secondary email](sergiorohling@hotmail.com)
 
- - Estou consolidando e documentando meus projetos antes de publicá-los. Novidades serão adicionadas em breve
-
----
-
-## Contato
-[LinkedIn](www.linkedin.com/in/sergio-rohling) | [Email principal](sergio-r1@outlook.com) | [Email secundário](sergiorohling@hotmail.com)
+Translated with DeepL.com (free version)
